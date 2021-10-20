@@ -6,7 +6,7 @@ description: MiR is a Slack-based community started in March 2020  to support th
 
 image_left: true
 images:
-- mircommunity_v2.png
+- mircommunity_v2.jpg
 show_action_link: true
 show_social_links: true
 subtitle: MiR Community aims to support underrepresented R users around the world.
