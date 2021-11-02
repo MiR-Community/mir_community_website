@@ -18,45 +18,45 @@ enableEmoji = true
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark.renderer]
     unsafe = true  # Enable user to embed HTML snippets in Markdown content.
-    hardwraps = false 
+    hardwraps = false
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 2
     ordered = false
   [markup.highlight]
-    # one of: https://xyproto.github.io/splash/docs/ 
+    # one of: https://xyproto.github.io/splash/docs/
     style = "github"
-    
+
 [params]
   orgName = "MiR Community"
   orgLocal = "Global"
-  description = "MiR Community aims to support underrepresented R users around the world."
+  description = "MiR Community aims to support historically underrepresented R users around the world."
   favicon = "/img/favicon.png"
   logo = "/img/mir_logo_small.png"
   mainSections = ["blog", "project", "talk"]
-  navallcaps = true
+  navallcaps = false
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
   socialInFooter = true
-  # Default image for social sharing and search engines. 
+  # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/mir_logo_small.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "miR_community"
-  
+
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
-  #         poppy / sky / violet / water 
+  #         poppy / sky / violet / water
   theme = "water"
-  
+
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
   # the custom scss file must be in the assets/ folder
   # add the filename name here, without extension
   # to use hex colors instead of named tachyons colors, include "hex" in filename
-  custom_theme = "" 
-  
+  custom_theme = ""
+
   # use an embedded font-family
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
@@ -78,7 +78,7 @@ enableEmoji = true
 
   # Configuration of math rendering
   [params.math]
-    renderer = "katex" # one of "mathjax" / "katex" 
+    renderer = "katex" # one of "mathjax" / "katex"
 
   # Social icons may appear on homepage and in site header or footer
   # Configure show/hide above - add as many as you like below
@@ -93,6 +93,11 @@ enableEmoji = true
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/miR_community"
+  [[params.social]]
+      icon      = "youtube" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.youtube.com/channel/UCJdDHw9NNMznBjZ4SOaMwjQ"
+
 
 [taxonomies]
   category = "categories"
@@ -100,10 +105,10 @@ enableEmoji = true
   tag = "tags"
 
 [menu]
-  # Configure header 
+  # Configure header
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About MiR Community"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -117,21 +122,27 @@ enableEmoji = true
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "Webinars"
+    title = "Webinars"
+    url = "/webinars/"
     weight = 4
-    
-  # Configure footer  
+
+  [[menu.footer]]
+    name = "Join MiR"
+    title = "Join MiR"
+    url = "https://docs.google.com/forms/d/e/1FAIpQLScDFSyMLh_BbEq7zEBR18obMz8E2jQ6ZQYg4UPUxrfP93M46Q/viewform?usp=sf_link"
+    weight = 5    
+
+  # Configure footer
   [[menu.footer]]
     name = "License"
     title = "License"
     url = "/license/"
     weight = 1
   [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
+    name = "Join MiR"
+    title = "Join MiR"
+    url = "https://docs.google.com/forms/d/e/1FAIpQLScDFSyMLh_BbEq7zEBR18obMz8E2jQ6ZQYg4UPUxrfP93M46Q/viewform?usp=sf_link"
     weight = 2
   [[menu.footer]]
     name = "Contributors"
@@ -139,7 +150,7 @@ enableEmoji = true
     url = "/contributors/"
     weight = 3
 
-# see https://gohugo.io/about/hugo-and-gdpr/    
+# see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
   [privacy.disqus]
     disable = false
