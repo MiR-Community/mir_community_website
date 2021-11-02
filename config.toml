@@ -3,7 +3,7 @@ theme = "hugo-apero"
 languageCode = "en"
 title = "MiR Community"
 author = "Danielle Smalls"
-copyright = "" # set to override the auto generated copyright using org info and now year
+copyright = "MiR Community 2021" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
@@ -71,10 +71,10 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "apreshill/apero"
-    issue_term = "pathname" # url, pathname, or title
-    theme = "boxy-light"
-    label = "comments :crystal_ball:"
+    repo_name = ""
+    issue_term = "" # url, pathname, or title
+    theme = ""
+    label = ""
 
   # Configuration of math rendering
   [params.math]
@@ -121,16 +121,6 @@ enableEmoji = true
     title = "Talks"
     url = "/talk/"
     weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
     
   # Configure footer  
   [[menu.footer]]
