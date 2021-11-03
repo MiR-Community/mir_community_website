@@ -117,21 +117,21 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 3
-  [[menu.header]]
     name = "Webinars"
     title = "Webinars"
     url = "/webinars/"
-    weight = 4
-
+    weight = 3
   [[menu.header]]
     name = "Join MiR"
     title = "Join MiR"
     url = "https://docs.google.com/forms/d/e/1FAIpQLScDFSyMLh_BbEq7zEBR18obMz8E2jQ6ZQYg4UPUxrfP93M46Q/viewform?usp=sf_link"
+    weight = 4
+  [[menu.header]]
+    name = "Sponsors"
+    title = "Sponsors"
+    url = "/sponsors"
     weight = 5
+
 
   # Configure footer
   [[menu.footer]]
