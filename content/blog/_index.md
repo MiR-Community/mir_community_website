@@ -9,8 +9,8 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View recent posts
     text_link_url: /blog/
-description: ""
-layout: single
+description: "Lately"
+layout: single-sidebar
 show_author_byline: true
 show_post_date: false
 show_post_thumbnail: true

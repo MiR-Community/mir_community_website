@@ -122,14 +122,15 @@ enableEmoji = true
     url = "/events/"
     weight = 3
   [[menu.header]]
-    name = "Join MiR"
-    title = "Join MiR"
-    url = "https://docs.google.com/forms/d/e/1FAIpQLScDFSyMLh_BbEq7zEBR18obMz8E2jQ6ZQYg4UPUxrfP93M46Q/viewform?usp=sf_link"
-    weight = 4
-  [[menu.header]]
     name = "Sponsors"
     title = "Sponsors"
     url = "/sponsors/"
+    weight = 4
+
+  [[menu.header]]
+    name = "Join MiR"
+    title = "Join MiR"
+    url = "https://docs.google.com/forms/d/e/1FAIpQLScDFSyMLh_BbEq7zEBR18obMz8E2jQ6ZQYg4UPUxrfP93M46Q/viewform?usp=sf_link"
     weight = 5
 
 
