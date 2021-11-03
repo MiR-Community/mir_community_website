@@ -113,7 +113,7 @@ enableEmoji = true
     weight = 1
   [[menu.header]]
     name = "Blog"
-    title = "Blog"
+    title = "Community Blog"
     url = "/blog/"
     weight = 2
   [[menu.header]]
@@ -129,7 +129,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Sponsors"
     title = "Sponsors"
-    url = "/sponsors"
+    url = "/sponsors/"
     weight = 5
 
 

@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /webinars/
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
+  Upcoming and previous webinars, conferences, other community events.
 layout: list
 show_author_byline: true
 show_post_date: true
@@ -19,9 +19,7 @@ show_post_thumbnail: true
 show_post_time: true
 sidebar:
   author: MiR Community Team
-  description: "This is a list for your talks, workshops, or \nother events with a
-    time, date, and place. \nEven this sidebar offers a ton of customizations.\n\nCheck
-    out the _index.md file in the /talk folder \nto edit this content. \n"
+  description: ""
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml

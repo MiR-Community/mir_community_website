@@ -6,7 +6,7 @@ cascade:
   show_comments: true
   show_post_date: false
   sidebar:
-    show_sidebar_adunit: false
+    show_sidebar_adunit: true
     text_link_label: View recent posts
     text_link_url: /blog/
 description: ""
