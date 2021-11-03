@@ -7,7 +7,7 @@
   </section>
   <section class="blog-content mw7 center">
     {{ $caller := . }}
-    {{ $paginator := .Paginate ((where .RegularPages "Type" "talk").GroupByDate "2006") }}
+    {{ $paginator := .Paginate ((where .RegularPages "Type" "blog").GroupByDate "2006") }}
     {{ range $paginator.PageGroups}}
     <!--each year starts a new section-->
     <section class="group-content pb3 pb4-ns bt">
@@ -16,7 +16,7 @@
           {{ .Scratch.Set "$root" $caller }}
           {{ partial "shared/summary-compact.html" . }}
       {{ end }}
-    </section>    
+    </section>
     {{ end }}
     {{ partial "shared/list-pagination.html" . }}
   </section>
