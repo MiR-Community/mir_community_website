@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scholarships on MiR Community</title>
+    <link>/tags/scholarships/</link>
+    <description>Recent content in scholarships on MiR Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>MiR Community 2021</copyright>
+    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/scholarships/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Congrats to Kerritt Saintal!</title>
+      <link>/blog/rforusnov21/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/rforusnov21/</guid>
+      <description>R for the Rest of Us Scholarship Winner Announced!     In September, R for the Rest of Us, an organization that provides training and consulting in R, invited MiR members to apply to receive a full scholarship worth $899 to participate in the R in 3 Months program. With the R in 3 Months program, participants go through Getting Started with R, Fundamentals of R, Going Deeper with R, and lessons on using Git and GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>

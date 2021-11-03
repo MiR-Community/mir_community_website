@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webinars on MiR Community</title>
+    <link>/categories/webinars/</link>
+    <description>Recent content in webinars on MiR Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>MiR Community 2021</copyright>
+    <lastBuildDate>Thu, 25 Feb 2021 14:15:59 -0600</lastBuildDate><atom:link href="/categories/webinars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Industrial &amp; Organization Psychology with R</title>
+      <link>/events/iopsychwr/</link>
+      <pubDate>Thu, 25 Feb 2021 14:15:59 -0600</pubDate>
+      
+      <guid>/events/iopsychwr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting to know dplyr w/Daryn Ramsden</title>
+      <link>/events/dplyer_daryn_ramsden/</link>
+      <pubDate>Thu, 22 Oct 2020 14:15:59 -0600</pubDate>
+      
+      <guid>/events/dplyer_daryn_ramsden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ggplot2 with Shelmith Kariuki</title>
+      <link>/events/ggplotwshel/</link>
+      <pubDate>Fri, 03 Jul 2020 14:15:59 -0600</pubDate>
+      
+      <guid>/events/ggplotwshel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RStudio Instructor Certification Panel</title>
+      <link>/events/certpanel/</link>
+      <pubDate>Fri, 12 Jun 2020 14:15:59 -0600</pubDate>
+      
+      <guid>/events/certpanel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
