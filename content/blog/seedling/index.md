@@ -1,8 +1,8 @@
 ---
-author: Alison Hill
+author: MiR Events Team
 categories:
 - Theme features
-date: "2021-01-02"
+date: "2020-10-22"
 draft: false
 excerpt: Add tabbed sections to your posts.
 layout: single

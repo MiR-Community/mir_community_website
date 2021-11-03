@@ -34,10 +34,10 @@ enableEmoji = true
   favicon = "/img/favicon.png"
   logo = "/img/mir_logo_small.png"
   mainSections = ["blog", "project", "talk"]
-  navallcaps = false
+  navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
-  socialInHeader = false
+  socialInHeader = true
   socialInFooter = true
   # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
@@ -127,11 +127,11 @@ enableEmoji = true
     url = "/webinars/"
     weight = 4
 
-  [[menu.footer]]
+  [[menu.header]]
     name = "Join MiR"
     title = "Join MiR"
     url = "https://docs.google.com/forms/d/e/1FAIpQLScDFSyMLh_BbEq7zEBR18obMz8E2jQ6ZQYg4UPUxrfP93M46Q/viewform?usp=sf_link"
-    weight = 5    
+    weight = 5
 
   # Configure footer
   [[menu.footer]]
@@ -145,9 +145,9 @@ enableEmoji = true
     url = "https://docs.google.com/forms/d/e/1FAIpQLScDFSyMLh_BbEq7zEBR18obMz8E2jQ6ZQYg4UPUxrfP93M46Q/viewform?usp=sf_link"
     weight = 2
   [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
+    name = "Sponsors"
+    title = "Sponsors"
+    url = "/sponsors"
     weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/
