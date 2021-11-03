@@ -33,7 +33,7 @@ enableEmoji = true
   description = "MiR Community aims to support historically underrepresented R users around the world."
   favicon = "/img/mir_logo_small.png"
   logo = "/img/mir_logo_small.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog", "project", "webinars"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -126,7 +126,6 @@ enableEmoji = true
     title = "Sponsors"
     url = "/sponsors/"
     weight = 4
-
   [[menu.header]]
     name = "Join MiR"
     title = "Join MiR"

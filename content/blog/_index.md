@@ -10,7 +10,7 @@ cascade:
     text_link_label: View recent posts
     text_link_url: /blog/
 description: "Lately"
-layout: single-sidebar
+layout: single
 show_author_byline: true
 show_post_date: false
 show_post_thumbnail: true
