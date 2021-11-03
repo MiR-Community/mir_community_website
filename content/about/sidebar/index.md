@@ -16,6 +16,3 @@ link_list:
 - name: YouTube Channel
   url: https://www.youtube.com/channel/UCJdDHw9NNMznBjZ4SOaMwjQ
 ---
-
-** index doesn't contain a body, just front matter above.
-See about/list.html in the layouts folder **
