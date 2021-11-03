@@ -1,4 +1,4 @@
-baseURL = "mircommunity.com"
+baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "MiR Community"
