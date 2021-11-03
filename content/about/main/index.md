@@ -9,7 +9,10 @@ intro: |
   ## Vision
   MiR Community aims to support historically underrepresented R users around the world.
 
-  MiR Community hopes to provide a space of belonging and support for people who identify as underrepresented minority R useRs. Through community-led efforts, we hope to provide opportunities for historically underrepresented minorities to grow professionally and to contribute to the R community.
+  Our hope is to provide a space of belonging and support for people who identify as underrepresented minority R useRs. Through community-led efforts, we hope to provide opportunities for historically underrepresented minorities to grow professionally and to contribute to the R community.
+
+  ### *A Space for Belonging!*
+  The larger R community is full of talented, kind, generous folks all over the world. Our goal is to make sure that more folks, no matter who they are or where they're from has access to R, opportunities for success with R programming language, and feels welcomed to contribute to the global community.
 
   ## Meet the Team!
 

@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "mircommunity.com"
 theme = "hugo-apero"
 languageCode = "en"
 title = "MiR Community"
@@ -31,7 +31,7 @@ enableEmoji = true
   orgName = "MiR Community"
   orgLocal = "Global"
   description = "MiR Community aims to support historically underrepresented R users around the world."
-  favicon = "/img/favicon.png"
+  favicon = "/img/mir_logo_small.png"
   logo = "/img/mir_logo_small.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
@@ -61,7 +61,7 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Commissioner"
+  customtextFontFamily = "Atkinson Hyperlegible"
   customheadingFontFamily = "Metropolis"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
@@ -113,13 +113,13 @@ enableEmoji = true
     weight = 1
   [[menu.header]]
     name = "Blog"
-    title = "Community Blog"
+    title = "Blog"
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Webinars"
-    title = "Webinars"
-    url = "/webinars/"
+    name = "Events"
+    title = "Events"
+    url = "/events/"
     weight = 3
   [[menu.header]]
     name = "Join MiR"
@@ -147,7 +147,7 @@ enableEmoji = true
   [[menu.footer]]
     name = "Sponsors"
     title = "Sponsors"
-    url = "/sponsors"
+    url = "/sponsors/"
     weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/

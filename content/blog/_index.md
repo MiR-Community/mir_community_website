@@ -17,10 +17,10 @@ show_post_thumbnail: true
 sidebar:
   author: MiR Community Team
   description: ""
-  show_sidebar_adunit: false
+  show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   title:
 thumbnail_left: true
-title: Community Blog
+title: Blog
 ---

@@ -1,6 +1,6 @@
 ---
 action_label: Join Us &rarr;
-action_link: /about
+action_link: /about/
 action_type: text
 description: MiR is a Slack-based community started in March 2020  to support the professional development and well-being of historically underrepresented minorities that use R.
 
@@ -9,9 +9,9 @@ images:
 - /img/mircommunity_v2.png
 show_action_link: true
 show_social_links: true
-subtitle: MiR Community aims to support underrepresented R users around the world.
+subtitle: MiR Community aims to support historically underrepresented R users around the world.
 text_align_left: false
-title: Join Us
+title: Minorities in R
 type: home
 ---
 
