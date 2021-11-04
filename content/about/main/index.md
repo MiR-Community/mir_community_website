@@ -16,15 +16,19 @@ intro: |
 
   ## Meet the Team!
 
-  + Co-Founder [Danielle Smalls-Perkins](https://twitter.com/smallperks)
+  + Community Co-Founder, Operations Lead [Danielle Smalls-Perkins](https://twitter.com/smallperks)
 
-  + Co-Founder [Dorris Scott](https://twitter.com/Dorris_Scott)
+  + Community Co-Founder, Operations Lead [Dorris Scott](https://twitter.com/Dorris_Scott)
 
-  + Accessibility Team Co-Lead [Silvia Canelón](https://twitter.com/spcanelon)
+  + Co-Lead, Accessibility Team [Silvia Canelón](https://twitter.com/spcanelon)
 
-  + Accessibility Team Co-Lead [Liz Hare](https://twitter.com/DogGeneticsLLC)
+  + Co-Lead, Accessibility Team [Liz Hare](https://twitter.com/DogGeneticsLLC)
 
-  + Partnerships Team Lead [Audris Campbell](https://www.linkedin.com/in/audriscampbell/)
+  + Lead, Partnerships Team  [Audris Campbell](https://www.linkedin.com/in/audriscampbell/)
+
+  + Co-Lead, RStudio Instructor Certification Team, [Andy Murtha]()
+
+  + Website Whiz, [Ola Giwa](https://github.com/zaynaib)
 
 show_outro: false
 outro: |
