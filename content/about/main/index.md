@@ -26,7 +26,9 @@ intro: |
 
   + Lead, Partnerships Team  [Audris Campbell](https://www.linkedin.com/in/audriscampbell/)
 
-  + Co-Lead, RStudio Instructor Certification Team, [Andy Murtha]()
+  + Co-Lead, RStudio Instructor Certification Team, [Andy Murtha](https://www.github.com/amurtha80)
+
+  + Co-Lead, RStudio Instructor Certification Team, [Meenakshi Kushwaha](https://twitter.com/envhealthspeak)
 
   + Website Whiz, [Ola Giwa](https://github.com/zaynaib)
 
