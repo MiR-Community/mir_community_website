@@ -30,7 +30,7 @@ intro: |
 
   + Co-Lead, RStudio Instructor Certification Team, [Meenakshi Kushwaha](https://twitter.com/envhealthspeak)
 
-  + Website Whiz, [Ola Giwa](https://github.com/zaynaib)
+  + Website Whiz & Contributor, [Ola Giwa](https://github.com/zaynaib)
 
 show_outro: false
 outro: |
