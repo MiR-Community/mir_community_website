@@ -2,7 +2,7 @@
 author: Zane Dax(she/they)
 categories:
 - MiR Community Highlight
-date: "2021-10-06"
+date: "2021-11-29"
 draft: false
 excerpt: Analysis conducted by Zane on LGBTQ  scientists who code (jobs that have “Developer'',  “Data”, “Software”,  etc. in Twitter description) show that within the MiR Twitter followers with a pride flag  account for 2.52%, and the followers of TheStemVillage Twitter account make up 2.05% (n= 486)
 layout: single
