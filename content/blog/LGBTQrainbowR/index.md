@@ -39,7 +39,7 @@ The second Twitter account I searched was TheSTEMvillage for two reasons; it has
 Going through so many accounts by hand was not super fun but did allow for proper screening of accounts and further inspection. My first collection had 580 accounts, then the second screen deleted 94 accounts for incomplete data, resulting in a sample size of 486 accounts.
 
 The data showed what fields LGBTQ STEM scientists largely  fall into, which is important data as the R community has many interdisciplinary academic fields and users. My burning question remained as to where are the Transgender scientists and in what field do they go into, as 99 accounts were counted as Transgender (20.37%).
-![](bar_chart2.png "Bar chart that displays counts of self-identifying Transgender scientists and their STEM occupations out of 486 Twitter accounts. The top ten fields are as follows. Neuroscience with 9 accounts, Biology with 7 accounts, Chemistry with 6 accounts, Engineering with 5 accounts, Genetics and Psychology with 4 accounts each, and Biology and Microbiology with 3 accounts each. Accounts with they pronouns were included regardless of Trans pride flag.")
+![](bar_chart2.png "Bar chart that displays counts of self-identifying Transgender scientists and their STEM-related fields of study/industries")
 
 Interesting to find that those accounts counted as Transgender largely work in the Neuroscience field.  Anecdotal evidence of my Twitter of who I follow, my awareness of Transgender people often work in Software Game Development and fewer in the Data Science field.
 
