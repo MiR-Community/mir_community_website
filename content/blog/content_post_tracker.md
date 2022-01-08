@@ -41,7 +41,17 @@ Talk about the updated website. This blogpost will be used for recruiting new vo
 **Date:** May 24, 2022
 **Title:** Summary of Accessibility Event
 
-**Date:** May 24, 2022
-**Title:** Summary of Accessibility Event
+**Date:** June 7, 2022
+**Title:** Summary of MiR Community Presentations for UseR 2022
+
+**Date:** June 21, 2022
+**Title:** Solicitation for MiR Community Annual Survey OR MiR Highlight #4
+
+**Date:** July 7, 2022
+**Title:** Community-centered blog posts from members 
+
+**Date:** July 26, 2022
+**Title:** Community-centered blog posts from members 
+
 
 
