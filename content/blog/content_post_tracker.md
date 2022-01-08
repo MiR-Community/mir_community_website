@@ -31,4 +31,6 @@ Talk about the updated website. This blogpost will be used for recruiting new vo
 **Date:** March 22, 2022
 **Title:** Speakers for MiR WebinarsAccessibility Event Promotion? Blog Post 
 
+**Date:** April 12, 2022
+**Title:** MiR Highlight #2 
 
