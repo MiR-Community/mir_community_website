@@ -20,10 +20,8 @@ Talk about the updated website. This blogpost will be used for recruiting new vo
 **Date:** February 8, 2022
 **Title:** MiR Community Survery Results
 
-
 **Date:** February 22, 2022
 **Title:** MiR Highlight #1
-
 
 **Date:** March 8, 2022
 **Title:** Speakers for MiR Webinars
@@ -36,5 +34,14 @@ Talk about the updated website. This blogpost will be used for recruiting new vo
 
 **Date:** April 26, 2022
 **Title:** Guidebook Posting Blog
+
+**Date:** May 10, 2022
+**Title:** MiR Highlight #3
+
+**Date:** May 24, 2022
+**Title:** Summary of Accessibility Event
+
+**Date:** May 24, 2022
+**Title:** Summary of Accessibility Event
 
 
