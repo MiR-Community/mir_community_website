@@ -8,5 +8,26 @@
 **Date:** November 29, 2021
 **Title:** "LGBTQ Rainbow Minority in Code"
 
+**Date:** January 11, 2022
+**Title:** "Website Update and Volunteer recruitment drive. 
+
+Talk about the updated website. This blogpost will be used for recruiting new volunteers for Social Media, Newsletter, Website, and Fundraising and rotating curator (Danielle)."
+
+**Date:** January 25, 2022
+**Title:** RStudio Certification Group 
+
+
+**Date:** February 8, 2022
+**Title:** MiR Community Survery Results
+
+
+**Date:** February 22, 2022
+**Title:** MiR Highlight #1
+
+
+**Date:** March , 2022
+**Title:** Accessibility Event Promotion? Blog Post 
+
+
 
 
