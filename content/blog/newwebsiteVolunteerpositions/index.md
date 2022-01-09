@@ -60,9 +60,6 @@ Who’s best fit: engaging, well-written, and sociable individuals
 
 
 
-
-
-
 Accessibility Chair
 
 At its foundation, MiR is accessible. Our members cross geo-political boundaries, and span numerous cultural, ethnic, racial, and gender  categories. In short, we are open to all. The accessibility chair….
@@ -71,8 +68,6 @@ At its foundation, MiR is accessible. Our members cross geo-political boundaries
 You’ll collaborate closely with MiR leadership, partnerships chair, webmaster chair
 
 Who’s best fit: empathetic, observant, and caring individuals
-
-
 
 
 
@@ -121,6 +116,5 @@ Who’s best fit: visual, creative, and technical individuals
 
 
 
-
-
+Fundraising Chair 
 
