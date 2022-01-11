@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>MiR Community 2021</copyright>
-    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>/collection/day02/01-netlify/</link>
@@ -85,12 +85,23 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
+      <title>LGBTQ Rainbow Minority in Code</title>
+      <link>/blog/lgbtqrainbowr/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/lgbtqrainbowr/</guid>
+      <description>LGBTQ Rainbow Minority in Code!     TL;DR I gave a presentation on Missing Narratives around Diversity and Inclusion in Research Software Engineering. My report on LGBTQ scientists who code (jobs that have “Developer&#39;&#39;, “Data”, “Software”, etc. in Twitter description) show that within the MiR Twitter followers with a pride flag account for 2.52%, and the followers of TheStemVillage Twitter account make up 2.05% (n= 486).
+Any LGBTQ coders in the world ?</description>
+    </item>
+    
+    <item>
       <title>Congrats to Kerritt Saintal!</title>
       <link>/blog/rforusnov21/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/blog/rforusnov21/</guid>
-      <description>R for the Rest of Us Scholarship Winner Announced!     In September, R for the Rest of Us, an organization that provides training and consulting in R, invited MiR members to apply to receive a full scholarship worth $899 to participate in the R in 3 Months program. With the R in 3 Months program, participants go through Getting Started with R, Fundamentals of R, Going Deeper with R, and lessons on using Git and GitHub.</description>
+      <description>R for the Rest of Us Scholarship Winner Announced!     ![](kerrit_profile.png “image of Kerritt Saintal, winner of R for the Rest of Us Scholarship”))
+In September, R for the Rest of Us, an organization that provides training and consulting in R, invited MiR members to apply to receive a full scholarship worth $899 to participate in the R in 3 Months program. With the R in 3 Months program, participants go through Getting Started with R, Fundamentals of R, Going Deeper with R, and lessons on using Git and GitHub.</description>
     </item>
     
     <item>
@@ -191,6 +202,19 @@ Formspree requires a (free) account and new form to be set up. The link is made 
 (20px) 1rem
 (16px) .875rem
 (14px)     Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/blog/content_post_tracker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/content_post_tracker/</guid>
+      <description>Editorial Calendar   Blog Posts:     Date: November 2, 2021 Title: &amp;ldquo;Congrats to Kerritt Saintal!&amp;rdquo;
+Date: November 29, 2021 Title: &amp;ldquo;LGBTQ Rainbow Minority in Code&amp;rdquo;
+Date: January 11, 2022 Title: &amp;ldquo;Website Update and Volunteer recruitment drive.
+Talk about the updated website. This blogpost will be used for recruiting new volunteers for Social Media, Newsletter, Website, and Fundraising and rotating curator (Danielle).&amp;rdquo;
+Date: January 25, 2022 Title: RStudio Certification Group</description>
     </item>
     
     <item>

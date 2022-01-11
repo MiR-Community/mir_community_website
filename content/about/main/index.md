@@ -32,7 +32,7 @@ intro: |
 
   + Website Whiz & Contributor, [Ola Giwa](https://github.com/zaynaib)
   
-  + Contributor, Zane Dax (She/They)(https://github.com/PythonCoderUnicorn)
+  + Contributor, [Zane Dax (She/They)](https://github.com/PythonCoderUnicorn)
 
 show_outro: false
 outro: |

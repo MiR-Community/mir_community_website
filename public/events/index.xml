@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MiR Events on MiR Community</title>
+    <title>Events on MiR Community</title>
     <link>/events/</link>
-    <description>Recent content in MiR Events on MiR Community</description>
+    <description>Recent content in Events on MiR Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>MiR Community 2021</copyright>

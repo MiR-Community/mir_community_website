@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MiR Community Highlight on MiR Community</title>
+    <link>/categories/mir-community-highlight/</link>
+    <description>Recent content in MiR Community Highlight on MiR Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>MiR Community 2021</copyright>
+    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/mir-community-highlight/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LGBTQ Rainbow Minority in Code</title>
+      <link>/blog/lgbtqrainbowr/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/lgbtqrainbowr/</guid>
+      <description>LGBTQ Rainbow Minority in Code!     TL;DR I gave a presentation on Missing Narratives around Diversity and Inclusion in Research Software Engineering. My report on LGBTQ scientists who code (jobs that have “Developer&#39;&#39;, “Data”, “Software”, etc. in Twitter description) show that within the MiR Twitter followers with a pride flag account for 2.52%, and the followers of TheStemVillage Twitter account make up 2.05% (n= 486).
+Any LGBTQ coders in the world ?</description>
+    </item>
+    
+  </channel>
+</rss>
