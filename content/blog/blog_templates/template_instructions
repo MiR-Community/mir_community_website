@@ -4,14 +4,23 @@ See "hello_blog" under "blog_templates folder for example post.
 
 ---
 author: [Fill in author name here]
+
 categories:
 - [list 1+ categories that the post may fall under; "MiR Highlights", "Events", etc.]
+
 date: ["YYYY-MM-DD" for blog post date]
+
 draft: [choose true or false -- true if you don't want to post it to the website yet, false if posting to the website immediately]
+
 excerpt: [subtitle/short description goes here]
+
 layout: [single]
+
+title: [Title of the blog post]
+
 subtitle:
+
 tags:
 - [list 1+ tags that match the post; "Visualization" "TidyTuesday", etc.]
-title: [Title of the blog post]
+
 ---
