@@ -1,7 +1,14 @@
+---
+title: Editorial Calendar
+author: MiR Community Team
+date: '2022-01-11'
+slug: [2022, Calendar]
+categories: []
+tags: []
+draft: no
+---
 
 
-
-# Editorial Calendar
 
 ![img](feature.jpg)
 
