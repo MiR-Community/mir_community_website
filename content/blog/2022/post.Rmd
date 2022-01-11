@@ -1,0 +1,167 @@
+---
+title: "Climate Survey Results"
+author: "MiR"
+date: "12/18/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(xaringanExtra)
+library(tidyverse)
+library(here)
+library(janitor)
+
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(fig.retina = 3, echo=FALSE)
+
+library(readxl)
+library(tidyverse)
+library(rnaturalearth)
+library(ggthemes)
+library(sf)
+library(maps)
+library(forcats)
+library(extrafont)
+loadfonts(dev = "win")
+survey <- read_excel("data/survey.xlsx") %>%
+  slice(-1) 
+colnames(survey) = c("timestamp", "country", "preference_comm", "involved",
+                     "helpful_activities", "wish_offering", "experience_R",
+                     "use_R_for", "do_with_R", "tutorial", "access_tutorials",
+                     "materials_prior", "use_assistive", "identify_statements",
+                     "sugg_more_accessible", "age", "nationality", "race_ethnic",
+                     "gender_identity", "gender_self", "lgbt", "ally", "raffle")
+
+green = "#025951"
+light_green = "#05F2AF"
+```
+
+## The Survey
+
+The MiR community aims to support underrepresented R users of the World. In order to understand more about this community, a climate survey was conducted during the first half of 2021. Thanks to MiR volunteers' translation, it was possible to answer to the questions in two languages: English or Spanish. From a total of around 190 community members, 74 of them responded the survey. In this post, we wrap up the results that came out from the analysis. In particular, we focus on the involvement in MiR activities, and the demographic diversity of the community. 
+
+## Why people join us and how they take part?
+
+People join MiR for many diverse reasons, with the community as the top answer among the respondents. Other reasons include to offer help to the members of the community and to get help to learn R or to find job opportunities. These reasons can be linked to the allyship condition of the members.
+
+```{r, message=FALSE, warning=FALSE, fig.alt="Bar chart with the main reasons why people joined MiR."}
+library(here)
+library(janitor)
+mydf <- read_csv(here("No-PII-Included _copy-of-sheet2_MK.csv"))
+mydf  <-  mydf %>% 
+  filter(!(is.na(`Ally (Y/N)`)))
+
+mydf <- mydf %>% 
+  mutate(Why_code = fct_explicit_na(Why_code, "Other")) %>%
+  count(Why_code)
+
+plot1 <- ggplot(mydf, aes(x=reorder(`Why_code`, n), y = n)) +
+  geom_col(fill = green, color = light_green, size = 1) +
+  scale_y_continuous(expand = c(0, 0)) +
+  coord_flip() +
+  labs(x = "", y = "count") +
+  theme_minimal()   + 
+  theme(text = element_text(family = "Montserrat", size = 21))
+plot1
+```
+
+Respondents were asked if they identify as allies and `69%` answered 'yes'. However, contrary to as it might be perceived because of the binary nature of this question, the categories ally and minority are not necessarily disjoint. A few members self-identify as a minorities and also as allies in another possible aspect of the group diversity. 
+
+During the first year of MiR community, respondents participated in various activities. The activity selected as the most helpful was connecting with other people (which matches with the top reason to join MiR). 
+
+```{r, fig.width = 8, fig.height=6, fig.alt="Bar chart of the most useful MiR activities."}
+# survey  %>%
+#   select(helpful_activities) %>%
+#   unique()
+survey  %>%
+  select(helpful_activities) %>%
+  replace_na(replace = list(helpful_activities = "N/A")) %>%
+  separate_rows(helpful_activities,sep = ", ") %>%
+  mutate(helpful_activities = factor(helpful_activities),
+         helpful_activities = fct_collapse(helpful_activities,  "Connecting with other people who use R" = c("Learning from others and offering up information/opportunities for this group when I come across them", "Community", "Connecting with other people in the R community"))) %>% 
+  count(helpful_activities) %>% 
+  ggplot() +
+  geom_col(aes(x = reorder(helpful_activities, n), y = n), fill = green, color = light_green, size = 1) +
+  scale_y_continuous(expand = c(0, 0)) +
+  coord_flip() +
+  labs(x = "", y = "count", title = "The most helpful activities organized by MiR") +
+  theme_minimal() + 
+  theme(text = element_text(family = "Montserrat", size = 21),
+        plot.title.position = "plot")
+```
+
+On the other hand, we collected information about the activities that members wish MiR would offer. Common answers among minorities include the possibility to access to mentoring and career advice. Other members also pointed out the need to be better informed and suggested more presence on social media, and newsletters to be receive news and activity invitations. 
+
+## Our diversity
+
+One of the goals of the survey was to understand more about the diversity of the community members. The first part of the diversity section was addressed to accesibility. `15%` of the respondents identified themselves with any of the following statements:
+
+- I have difficulty remembering, concentrating, or making decisions.
+- I am blind or having serious difficulty seeing, even when wearing glasses.
+- I have physical difficulties with using computers or mobile phones.
+
+Furthermore, a few respondents communicated the use of screen enlarging software and screen reader software.
+
+Regarding ethnic/race self-identification, most of the respondents identified themselves as white people. This group was closely followed by Black and then Asian. We can found intersections among the defined categories, namely between Black and African and Hispanic/Latinx and White. Lastly, there are members that did not identified with any of the categorires and prefered to identify in their own terms.
+
+```{r, fig.width=14, fig.alt="A series of bar charts of some of the categories of race/ethnic. Categories include: black, white, asian, african, latin, and indigenous."}
+library(stringr)
+library(tidyr)
+# survey  %>%
+#   select(race_ethnic) %>%
+#   unique()
+survey  %>%
+  select(race_ethnic) %>%
+  replace_na(replace = list(race_ethnic = "N/A")) %>%
+  mutate(race_ethnic = case_when(str_detect(race_ethnic, "I do not identify with any of these categories") ~ "Any of these categories",
+                                 TRUE ~ race_ethnic),
+         White = str_detect(str_to_lower(race_ethnic), "white"),
+         Black = str_detect(str_to_lower(race_ethnic), "black"),
+         Indigenous = str_detect(str_to_lower(race_ethnic), "indigenous"),
+         Asian  = str_detect(str_to_lower(race_ethnic), "asia"),
+         African  = str_detect(str_to_lower(race_ethnic), "africa"),
+         "Latin American, Latinx or Hispanic" = (str_detect(str_to_lower(race_ethnic),  "latin") + str_detect(str_to_lower(race_ethnic),  "hispanic"))>0) %>%
+  pivot_longer(cols = c(White, Black,
+         Indigenous, Asian, African,
+         `Latin American, Latinx or Hispanic`), names_to = "Category", values_to = "Answer") %>%
+  mutate(Answer = case_when(Answer ~ "Yes",
+                            !Answer ~ "No")) %>%
+  ggplot() +
+  geom_bar(aes(x = Answer), fill = green, color = light_green, size = 1) +
+  facet_wrap(~Category) +
+  scale_y_continuous(expand = c(0, 0)) +
+  coord_flip() +
+  labs(x = "") +
+  theme_minimal()   + 
+  theme(text = element_text(family = "Montserrat", size = 21))
+# survey  %>%
+#   select(race_ethnic) %>%
+#   replace_na(replace = list(race_ethnic = "N/A")) %>%
+#   mutate(race_ethnic = case_when(str_detect(race_ethnic, "I do not identify with any of these categories") ~ "Any of these categories",
+#                                  TRUE ~ race_ethnic)) %>%
+#   ggplot() +
+#   geom_bar(aes(x = race_ethnic), fill = green, color = light_green, size = 1) +
+#   scale_y_continuous(expand = c(0, 0)) +
+#   coord_flip() +
+#   labs(x = "") +
+#   theme_minimal()   + 
+#   theme(text = element_text(family = "Montserrat", size = 21))
+
+```
+
+
+To end, we retrieved the following statistics about other aspects of diversity: 
+
+- The predominant gender identity among respondents is "female", closely followed by "male". Other members identified themselves as "non-binary" or preferred to define in their own words. 
+
+- `13%` of the respondents consider themselves a member of the LGBTIQ+. 
+
+- `20.3%` of the respondents live out of their origin country. 
+
+- respondents are in average `34` years old but the range of ages is quite wide.
+
+
+## Conclusions
+
+This survey was useful to understand more about the activities and the members of this community. The received feedback about past activities and the diversity insights are very helpful to guide future strategic planning of the MiR community. Finally, representation awareness can be really important itself for members to feel comfortable and included in the community. We hope that the communication of these results will help other R users to feel represented and join MiR.
+
