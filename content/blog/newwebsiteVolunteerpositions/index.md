@@ -3,7 +3,7 @@ author: Danielle Smalls (she/her)
 categories:
 - Volunteers
 date: "2021-12-30"
-draft: true
+draft: false
 excerpt:
 layout: single
 subtitle: New Website Design + Call for Volunteers
