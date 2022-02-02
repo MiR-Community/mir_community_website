@@ -3,7 +3,7 @@ author: Andy Murtha, Maria C Ramos, Phani Tata
 categories:
 - "R-Studio Instructor Training"
 date: "2022-01-25"
-draft: true
+draft: false
 excerpt: Andy Murtha, Maria Ramos, and Phani Tata explains the benefits of the The RStudio Instructor Training Groups.
 layout: [single]
 subtitle:
