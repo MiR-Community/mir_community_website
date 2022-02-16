@@ -5,7 +5,7 @@ date: '2022-01-11'
 slug: []
 categories: []
 tags: []
-draft: yes
+draft: no
 excerpt: The MiR community aims to support underrepresented R users of the World. In order to understand more about this community, a climate survey was conducted during the first half of 2021.
 ---
 
