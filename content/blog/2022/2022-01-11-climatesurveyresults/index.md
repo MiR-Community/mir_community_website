@@ -21,8 +21,6 @@ The MiR community aims to support underrepresented R users of the World. In orde
 People join MiR for many diverse reasons, with the community as the top answer among the respondents. Other reasons include to offer help to the members of the community and to get help to learn R or to find job opportunities. These reasons can be linked to the allyship condition of the members.
 
 
-![image: why people join]()
-
 
 
 Respondents were asked if they identify as allies and `69%` answered 'yes'. However, contrary to as it might be perceived because of the binary nature of this question, the categories ally and minority are not necessarily disjoint. A few members self-identify as a minorities and also as allies in another possible aspect of the group diversity. 
