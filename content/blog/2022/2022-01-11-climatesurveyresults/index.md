@@ -20,7 +20,7 @@ The MiR community aims to support underrepresented R users of the World. In orde
 
 People join MiR for many diverse reasons, with the community as the top answer among the respondents. Other reasons include to offer help to the members of the community and to get help to learn R or to find job opportunities. These reasons can be linked to the allyship condition of the members.
 
-
+![Bar chart with the main reasons why people joined MiR.](/images/mir_1.png)
 
 
 Respondents were asked if they identify as allies and `69%` answered 'yes'. However, contrary to as it might be perceived because of the binary nature of this question, the categories ally and minority are not necessarily disjoint. A few members self-identify as a minorities and also as allies in another possible aspect of the group diversity. 
@@ -28,7 +28,7 @@ Respondents were asked if they identify as allies and `69%` answered 'yes'. Howe
 During the first year of MiR community, respondents participated in various activities. The activity selected as the most helpful was connecting with other people (which matches with the top reason to join MiR). 
 
 
-![The most helpful activities organized by MiR]()
+![The most helpful activities organized by MiR](images/mir_2.png)
 
 On the other hand, we collected information about the activities that members wish MiR would offer. Common answers among minorities include the possibility to access to mentoring and career advice. Other members also pointed out the need to be better informed and suggested more presence on social media, and newsletters to be receive news and activity invitations. 
 
@@ -46,7 +46,7 @@ Furthermore, a few respondents communicated the use of screen enlarging software
 
 Regarding ethnic/race self-identification, most of the respondents identified themselves as white people. This group was closely followed by Black and then Asian. We can found intersections among the defined categories, namely between Black and African and Hispanic/Latinx and White. Lastly, there are members that did not identified with any of the categorires and prefered to identify in their own terms.
 
-![bar charts of some of the categories of race/ethnic]()
+![bar charts of some of the categories of race/ethnic](images/mir_3.png)
 
 
 To end, we retrieved the following statistics about other aspects of diversity: 
