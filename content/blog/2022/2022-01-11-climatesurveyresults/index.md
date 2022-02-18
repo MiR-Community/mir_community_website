@@ -1,6 +1,6 @@
 ---
 title: Climate Survey results
-author: Violeta Roizman
+author: MiR Survey Committee
 date: '2022-01-11'
 slug: []
 categories: []
