@@ -44,7 +44,7 @@ The MiR community aims to support underrepresented R users of the World. In orde
 
 People join MiR for many diverse reasons, with the community as the top answer among the respondents. Other reasons include to offer help to the members of the community and to get help to learn R or to find job opportunities. These reasons can be linked to the allyship condition of the members.
 
-```{r, message=FALSE, warning=FALSE, fig.alt="Bar chart with the main reasons why people joined MiR."}
+```{r, message=FALSE, warning=FALSE, fig.alt="Horizontal bar chart with the main reasons why people joined MiR. The bar is green and the x-axis is the count of respondants which goes from 0 to 60.  60 people responded saying community was the biggest reason, around 42 people responded saying help was the biggest reason, around 39 people responded to learn R, around 27 people responded other, around nine people identify as MiR, around seven people mentioned certifcation, and one person responded opportunities."}
 library(here)
 library(janitor)
 mydf <- read_csv(here("No-PII-Included _copy-of-sheet2_MK.csv"))
