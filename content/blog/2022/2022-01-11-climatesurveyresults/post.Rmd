@@ -69,7 +69,7 @@ Respondents were asked if they identify as allies and `69%` answered 'yes'. Howe
 
 During the first year of MiR community, respondents participated in various activities. The activity selected as the most helpful was connecting with other people (which matches with the top reason to join MiR). 
 
-```{r, fig.width = 8, fig.height=6, fig.alt="Bar chart of the most useful MiR activities. Horizontal bar chart with the main reasons why people joined MiR. The bar is green and the x-axis is the count of respondants which goes from 0 to 40. Around 47 people responded connecting to other people who use R. Around 32 people responded upcoming events. 
+```{r, fig.width = 8, fig.height=6, fig.alt="A horizontal bar chart of the most useful MiR activities. The bar is green and the x-axis is the count of respondants which goes from 0 to 40. Around 47 people responded connecting to other people who use R. Around 32 people responded upcoming events. 
 Around 28 people responded information about learning and using R. Around 26 people responded MiR online tutorials or webinars. 30 people responded information on upcoming conferences, around 27 people responded information on job opportunities, around nine people responded R coffee hours and around four people responded N/A. "}
 # survey  %>%
 #   select(helpful_activities) %>%
@@ -105,7 +105,7 @@ Furthermore, a few respondents communicated the use of screen enlarging software
 
 Regarding ethnic/race self-identification, most of the respondents identified themselves as white people. This group was closely followed by Black and then Asian. We can found intersections among the defined categories, namely between Black and African and Hispanic/Latinx and White. Lastly, there are members that did not identified with any of the categorires and prefered to identify in their own terms.
 
-```{r, fig.width=14, fig.alt="A series of bar charts of some of the categories of race/ethnic. Categories include: black, white, asian, african, latin, and indigenous."}
+```{r, fig.width=14, fig.alt="A series of horizontal bar charts of some of the categories of race/ethnic. Categories include: black, white, asian, african, latin, and indigenous. The bar is green and the x-axis is the count of respondants which goes from 0 to 60. Around ten respondants identified as African and 60 didn't identify as African.  Around 17 respondants identified as Asian and 60 respondants didn't identify as Asian. Around 18 respondants identified as Black and around 55 respondants didn't identify as Black. Around two respondants identifed as indigenous and over 60 respondants didn't identify as indigenous. Around ten respondants identified as Latin American, Latinx, or Hispanic and 60 respondants didn't identify as Latin American, Latinx, or Hispanic. Around 23 respondants identified as white and around 43 respondants didn't identify as white."}
 library(stringr)
 library(tidyr)
 # survey  %>%
