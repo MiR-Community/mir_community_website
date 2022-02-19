@@ -69,7 +69,8 @@ Respondents were asked if they identify as allies and `69%` answered 'yes'. Howe
 
 During the first year of MiR community, respondents participated in various activities. The activity selected as the most helpful was connecting with other people (which matches with the top reason to join MiR). 
 
-```{r, fig.width = 8, fig.height=6, fig.alt="Bar chart of the most useful MiR activities."}
+```{r, fig.width = 8, fig.height=6, fig.alt="Bar chart of the most useful MiR activities. Horizontal bar chart with the main reasons why people joined MiR. The bar is green and the x-axis is the count of respondants which goes from 0 to 40. Around 47 people responded connecting to other people who use R. Around 32 people responded upcoming events. 
+Around 28 people responded information about learning and using R. Around 26 people responded MiR online tutorials or webinars. 30 people responded "}
 # survey  %>%
 #   select(helpful_activities) %>%
 #   unique()
