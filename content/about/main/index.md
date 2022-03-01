@@ -31,6 +31,8 @@ intro: |
   + Co-Lead, RStudio Instructor Certification Team, [Meenakshi Kushwaha](https://twitter.com/envhealthspeak)
 
   + Website Whiz & Contributor, [Ola Giwa](https://github.com/zaynaib)
+  
+  + Contributor, [Zane Dax (She/They)](https://github.com/PythonCoderUnicorn)
 
 show_outro: false
 outro: |

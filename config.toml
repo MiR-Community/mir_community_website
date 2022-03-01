@@ -131,6 +131,11 @@ enableEmoji = true
     title = "Join MiR"
     url = "https://docs.google.com/forms/d/e/1FAIpQLScDFSyMLh_BbEq7zEBR18obMz8E2jQ6ZQYg4UPUxrfP93M46Q/viewform?usp=sf_link"
     weight = 5
+  [[menu.header]]
+    name = "Past Events"
+    title = "Past Events"
+    url = "/Past Events"
+    weight = 6
 
 
   # Configure footer
