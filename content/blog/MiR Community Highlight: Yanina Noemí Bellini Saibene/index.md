@@ -1,7 +1,7 @@
 ---
 author: MiR Community Team
 categories:
-- "R-Studio Instructor Training"
+- "MiR Community Highlights"
 date: "2022-01-25"
 draft: false
 excerpt:
@@ -11,10 +11,9 @@ tags:
 - Highlights
 - Interview
 title: "MiR Community Highlight: Yanina Noemí Bellini Saibene"
-
 ---
 
-** Mir Community Highlights offer a chance to meet MiR Community members and learn more about their professional journeys, experiences with R, and personal pursuits. 
+** Mir Community Highlights offer a chance to meet MiR Community members and learn more about their professional journeys, experiences with R, and personal pursuits.**
 
 For this community highlight, please meet....
 
