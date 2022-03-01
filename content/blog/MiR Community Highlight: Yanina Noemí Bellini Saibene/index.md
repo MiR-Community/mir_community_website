@@ -22,17 +22,20 @@ title: "MiR Community Highlight: Yanina Noemí Bellini Saibene"
 ![](ybs.jpg "awesome photo of Yanina")
 
 ### What is your current role?
-Research at National Institute of Agricultural Technology (INTA)
+I have a lot of hats but the job that pays the bills is as Research at National Institute of Agricultural Technology (INTA) coordinating the Agroecosystem Modeling Network and professor at Universidad Nacional Guillermo Brown (UNAB). 
+I'm also a member of The Carpentries Executive Council by the vote of the community since 2022.
 
 ### Tell us about yourself! 	
 
-I live with my husband and my two beautiful children in Santa Rosa, La Pampa, Argentina, in South America. I am a scientist. I build digital solutions for the agricultural sector. That is why I'm chair (since 2016) for the AgroInformatics congress in Argentina and I'm chair of the Argentine Conference on Informatics and Operational Research (JAIIO) this 2020.
+I live with my husband and my two beautiful children in Santa Rosa, La Pampa, Argentina, in South America. I am a scientist. I build digital solutions for the agricultural sector. That is why I'm chair (since 2016) for the AgroInformatics congress in Argentina and I'm chair of the Argentine Conference on Informatics and Operational Research (JAIIO) during 2020 and 2021.
 
-I am the first generation in my family to complete high school. I won two scholarships at my job, which allowed me to finish my undergrad degree in information systems and a master's degree in Data Mining. I'm also an RStudio Certified Trainer.
+I am the first generation in my family to complete high school. I won two scholarships at my job, which allowed me to finish my undergrad degree in information systems and a master's degree in Data Mining. I'm also an RStudio Certified Trainer and a The Carpentries Instructor and Trainer.
 
-I had to work from an early age. I started teaching programming when I was 15 and never stopped. I love teaching because education is one of the few tools that people like I, in countries like mine, have to improve our lives. Especially because it is essential to narrow the structural inequalities in our society. This is why, during the pandemic, I co-founded MetaDocencia (https://www.metadocencia.org/), an organization to expand good teaching practices to Spanish-speaking teachers, we teach to more than 500 teachers from 18 countries. It is also one of the reasons I have to love communities of practice such as R-Ladies were I can share and teach what I know for free.  I also teach to industries, the public sector, and universities about R and AgTech.
+I had to work from an early age. I started teaching programming when I was 15 and never stopped. I love teaching because education is one of the few tools that people like I, in countries like mine, have to improve our lives. Especially because it is essential to narrow the structural inequalities in our society. This is why, during the pandemic, I co-founded MetaDocencia (https://www.metadocencia.org/), an organization to expand good teaching practices to Spanish-speaking teachers, we teach to more than 2000 teachers from 30 countries. It is also one of the reasons I have to love communities of practice such as R-Ladies were I can share and teach what I know for free.  I also teach to industries, the public sector, and universities about R and AgTech.
 
-I became part of the R Community 3 years ago when I started the R-Ladies Santa Rosa Chapter, now I am part of the R-Ladies Global Team. I am a co-founder and co-chair of LatinR and part of the team that translates R material into Spanish such as R for Data Science, RStudio Cheat Sheet and other documents as Teaching Teach Together and R-Ladies documents. I'm also maintaining the Spanish version of https://www.learnr4free.com/
+I became part of the R Community 3 years ago when I started the R-Ladies Santa Rosa Chapter, now I am part of the R-Ladies Global and Leadership Team. I am a co-founder and co-chair of LatinR, a trilingual conference about R in Latin America and I was one of the global coordinator of useR! 2021 .
+
+As language is an important barrier in my region, I'm part of severals teams that translates R material into Spanish such as R for Data Science, RStudio Cheat Sheet and other books as Teaching Teach Together and R-Ladies documents. I'm also maintaining the Spanish version of https://www.learnr4free.com/
 
 I relate my work at INTA with my work at the R Community by seeking to make my science as reproducible and open as possible using open computing tools.
 I use a lot of spatial data and some Data Mining techniques to analyze information from weather radar, satellite images, and drones. I use R and Python for this task.
@@ -46,9 +49,9 @@ As I am the head of a research group, linking with other institutions and reasea
 
 As a teacher, how to teach online has been a highly relevant skill in this pandemic.
 
-For the first one my undergrad and master programm give me the skills that I need together with 23 years being a Research at INTA.  
+For the first one my undergrad and master programm give me the skills that I need together with 24 years being a Research at INTA.  
 For the second one only the 23 years of experience being a Research at INTA.  So I made a lot of mistakes in the process of become a good leader.
-For the third the international R Community help me a lot with that and the RStudio Certification.
+For the third the international R Community help me a lot with that and the RStudio/The Carpentries Certification.
 
 ### What are some difficulties you've faced in your career? How did you overcome them?
 
