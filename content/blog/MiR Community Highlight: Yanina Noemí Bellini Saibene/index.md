@@ -14,8 +14,11 @@ title: "MiR Community Highlight: Yanina Noemí Bellini Saibene"
 
 ---
 
-### Hi! What is your name? What are your pronouns?
-Yanina Noemí Bellini Saibene (she/her)
+** Mir Community Highlights offer a chance to meet MiR Community members and learn more about their professional journeys, experiences with R, and personal pursuits. 
+
+For this community highlight, please meet....
+
+## ✨ Yanina Noemí Bellini Saibene (she/her) ✨
 
 ### What is your current role?
 Research at National Institute of Agricultural Technology (INTA)
@@ -82,4 +85,4 @@ Continue with the beautiful work you are doing building a safe space where every
 ### Where can we find you on social media?
 Twitter : @@yabellini
 
-Thanks for sharing your story with us! We really appreciate it. How can the R Community best support you?
+Thanks for being apart of MiR and sharing your story with us! We really appreciate it.
