@@ -13,11 +13,11 @@ tags:
 title: "MiR Community Highlight: Yanina Noemí Bellini Saibene"
 ---
 
-** Mir Community Highlights offer a chance to meet MiR Community members and learn more about their professional journeys, experiences with R, and personal pursuits.**
+**Mir Community Highlights offer a chance to meet MiR Community members and learn more about their professional journeys, experiences with R, and personal pursuits.**
 
-For this community highlight, please meet....
+***For this community highlight, please meet....***
 
-## ✨ Yanina Noemí Bellini Saibene (she/her) ✨
+## ✨ Yanina Noemí Bellini Saibene (she/her)
 
 ### What is your current role?
 Research at National Institute of Agricultural Technology (INTA)
