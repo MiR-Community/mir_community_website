@@ -2,9 +2,9 @@
 author: MiR Community Team
 categories:
 - "MiR Community Highlights"
-date: "2022-01-25"
+date: "2022-03-01"
 draft: false
-excerpt:
+excerpt: Mir Community Highlights offer a chance to meet MiR Community members and learn more about their professional journeys, experiences with R, and personal pursuits.
 layout: [single]
 subtitle:
 tags:
@@ -18,6 +18,8 @@ title: "MiR Community Highlight: Yanina Noemí Bellini Saibene"
 ***For this community highlight, please meet....***
 
 ## ✨ Yanina Noemí Bellini Saibene (she/her)
+
+![](ybs.jpg "awesome photo of Yanina")
 
 ### What is your current role?
 Research at National Institute of Agricultural Technology (INTA)
