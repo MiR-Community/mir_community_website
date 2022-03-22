@@ -14,7 +14,7 @@ tags:
 title: "Call for presenters for the MiR Fall Webinar Series!"
 ---
 
-![](pexels-yan-krukov-7792751.jpg "A Black male with locs in a grey suit and red tie sitting at a white desk giving an online presentation on his laptop. There is a white pen in front of the laptop and a cellphone on the side of the pen.")
+![](pexels-yan-krukov-7792751.jpg "A Black man with locs in a grey suit and red tie sitting at a white desk giving an online presentation on his laptop. There is a white pen in front of the laptop and a cellphone on the side of the pen.")
 *Photo by Yan Krukov from Pexels*
 
 # Be a presenter for the MiR 2022 Fall Webinar Series!
