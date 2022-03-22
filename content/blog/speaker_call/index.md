@@ -4,7 +4,7 @@ author: MiR Community Team
 categories:
 - "Call for Speakers"
 date: "2022-03-21"
-draft: true
+draft: false
 excerpt: Interested to share your knowledge to the MiR Community? Apply to be a presenter for the MiR Fall 2022 Webinar Series!
 layout: [single]
 subtitle:
