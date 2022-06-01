@@ -1,12 +1,14 @@
 ---
-title: Climate Survey results
-author: MiR Survey Committee
+title: "Climate Survey results"
+author: "MiR Survey Committee"
 date: '2022-01-11'
 slug: []
 categories: []
 tags: []
 draft: no
-excerpt: The MiR community aims to support underrepresented R users of the World. In order to understand more about this community, a climate survey was conducted during the first half of 2021.
+excerpt: The MiR community aims to support underrepresented R users of the World.
+  In order to understand more about this community, a climate survey was conducted
+  during the first half of 2021.
 ---
 
 ![img](./feature.png)
