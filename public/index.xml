@@ -7,81 +7,87 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>MiR Community 2021</copyright>
-    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Netlify</title>
-      <link>/collection/day02/01-netlify/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Call for presenters for the MiR Fall Webinar Series!</title>
+      <link>/blog/speaker_call/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/collection/day02/01-netlify/</guid>
-      <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
-Pre-requisites     Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
+      <guid>/blog/speaker_call/</guid>
+      <description>Photo by Yan Krukov from Pexels
+Be a presenter for the MiR 2022 Fall Webinar Series!   Are you interested in sharing your knowledge and your work to the MiR Community and beyond? We are looking for three speakers to kick off our MiR Fall 2022 Webinar Series! Topics include, but are not limited to: professional development(i.e. writing a resume, interview tips), sharing how to do a specific task using R (i.</description>
     </item>
     
     <item>
-      <title>A GitHub profile</title>
-      <link>/collection/day01/01-github/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <title>MiR Community Highlight: Andy Murtha</title>
+      <link>/blog/mir-community-highlight-andy-murtha/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/collection/day01/01-github/</guid>
-      <description>Profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
-Pin projects to profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
-Profile README     This is new! Let&amp;rsquo;s do it:
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
+      <guid>/blog/mir-community-highlight-andy-murtha/</guid>
+      <description>Mir Community Highlights offer a chance to meet MiR Community members and learn more about their professional journeys, experiences with R, and personal pursuits.
+For this community highlight, please meet&amp;hellip;.
+✨ Andy Murtha     What is your current role?     Tell us about yourself!     What are the most important skills in your current position? How did you develop these skills?     What are some difficulties you&amp;rsquo;ve faced in your career?</description>
     </item>
     
     <item>
-      <title>Prework</title>
-      <link>/collection/prework/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <title>MiR Community Highlight: Yanina Noemí Bellini Saibene</title>
+      <link>/blog/mir-community-highlight-yanina-noem%C3%AD-bellini-saibene/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/collection/prework/</guid>
-      <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
-Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
+      <guid>/blog/mir-community-highlight-yanina-noem%C3%AD-bellini-saibene/</guid>
+      <description>Mir Community Highlights offer a chance to meet MiR Community members and learn more about their professional journeys, experiences with R, and personal pursuits.
+For this community highlight, please meet&amp;hellip;.
+✨ Yanina Noemí Bellini Saibene (she/her)     What is your current role?     I have a lot of hats but the job that pays the bills is as Research at National Institute of Agricultural Technology (INTA) coordinating the Agroecosystem Modeling Network and professor at Universidad Nacional Guillermo Brown (UNAB).</description>
     </item>
     
     <item>
-      <title>A postcard</title>
-      <link>/collection/day01/02-postcards/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <title>RStudio Instructor Training Groups</title>
+      <link>/blog/rstudio_instructor_training/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/collection/day01/02-postcards/</guid>
-      <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
-install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
+      <guid>/blog/rstudio_instructor_training/</guid>
+      <description>The RStudio Instructor Training Groups are active participant study sessions that allow individuals to work through the teaching and content portions of the certification exams. The RStudio Instructor Certification consist of three parts; 1) Participation in the RStudio Instructor training course on teaching methods 2) Complete a teaching 90-minute teaching exam that includes preparing and delivering a 15-minute demonstration lesson 3) Complete a 90-minute practical examination for the subject that the desire to be certified in.</description>
     </item>
     
     <item>
-      <title>Using blogdown</title>
-      <link>/collection/day02/02-blogdown/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Climate Survey results</title>
+      <link>/blog/2022/2022-01-11-climatesurveyresults/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/collection/day02/02-blogdown/</guid>
-      <description>Pre-requisites     First, make sure you have the latest version of the blogdown package installed from CRAN:
-install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.</description>
+      <guid>/blog/2022/2022-01-11-climatesurveyresults/</guid>
+      <description>The Survey     The MiR community aims to support underrepresented R users of the World. In order to understand more about this community, a climate survey was conducted during the first half of 2021. Thanks to MiR volunteers&#39; translation, it was possible to answer to the questions in two languages: English or Spanish. From a total of around 190 community members, 74 of them responded the survey. In this post, we wrap up the results that came out from the analysis.</description>
     </item>
     
     <item>
-      <title>A distill site</title>
-      <link>/collection/day01/03-distill/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Editorial Calendar</title>
+      <link>/blog/editorial-calendar/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/collection/day01/03-distill/</guid>
-      <description>Pre-requisites     First, make sure you have the latest version of the distill package installed from CRAN:
-install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  &amp;lt;!-- --&amp;gt; packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’  Create GitHub repo     Online.</description>
+      <guid>/blog/editorial-calendar/</guid>
+      <description>Blog Posts:     2021     Date: November 2, 2021 Title: &amp;ldquo;Congrats to Kerritt Saintal!&amp;rdquo;
+Date: November 29, 2021 Title: &amp;ldquo;LGBTQ Rainbow Minority in Code&amp;rdquo;
+ 2022     Date: January 11, 2022 Title: &amp;ldquo;Website Update and Volunteer recruitment drive.
+Talk about the updated website. This blogpost will be used for recruiting new volunteers for Social Media, Newsletter, Website, and Fundraising and rotating curator (Danielle).</description>
     </item>
     
     <item>
-      <title>Warm woolen mittens</title>
-      <link>/collection/day02/03-blogdown/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Hello 2022</title>
+      <link>/blog/2022/2022-01-11-hello-2022/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/collection/day02/03-blogdown/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+      <guid>/blog/2022/2022-01-11-hello-2022/</guid>
+      <description>To a new MiR year   Welcome to a new year! The MiR Community has so many plans for engagement and learning opportunities. This is the year for our global community to come together and share our knowledge skills and lift each other up.
+The goals this year is to expand our community reach and engagement, from all levels of R knowledge and occupations. The MiR blog is the place we want you, yes YOU, to feel welcome and to engage with us.</description>
+    </item>
+    
+    <item>
+      <title>New Website Design &#43; Call for Volunteers</title>
+      <link>/blog/newwebsitevolunteerpositions/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/newwebsitevolunteerpositions/</guid>
+      <description>Event Chair     MiR is a globally distributed organization. Events are at the core of what we do! The event chair’s primary responsibility will be to plan our calendar of events. In the next year, events (and the responsibilities thereof) may take several different forms:
+virtual events: aligning our stream of speakers and content in-person/virtual conferences: connecting conference-goers from MiR for the premier annual R conference events (UseR, R Studio Conf) in-person meetups: organizing COVID-compliant local meetups (pandemic-pending)</description>
     </item>
     
     <item>
@@ -106,75 +112,47 @@ In September, R for the Rest of Us, an organization that provides training and c
     
     <item>
       <title>Industrial &amp; Organization Psychology with R</title>
-      <link>/events/iopsychwr/</link>
+      <link>/past-events/iopsychwr/</link>
       <pubDate>Thu, 25 Feb 2021 14:15:59 -0600</pubDate>
       
-      <guid>/events/iopsychwr/</guid>
-      <description></description>
+      <guid>/past-events/iopsychwr/</guid>
+      <description>Industrial &amp;amp; Organization Psychology with R     In this webinar, MiR Community member, Felix Wu will share how he and lab mates Evan Mulfinger, and Leo Alexander III use R as Industrial Organizational Psychologists. They will highlight an R Shiny app for adverse impact analysis and a study focusing on the impact of the Americans with Disabilities Act</description>
     </item>
     
     <item>
       <title>My R is your R too</title>
-      <link>/events/rstudioconf2021/</link>
+      <link>/past-events/rstudioconf2021/</link>
       <pubDate>Thu, 21 Jan 2021 14:15:59 -0600</pubDate>
       
-      <guid>/events/rstudioconf2021/</guid>
-      <description></description>
+      <guid>/past-events/rstudioconf2021/</guid>
+      <description>My R is your R too     While the R community has made strides in increasing the representation and participation for women and users from underrepresented regions, there are still members of the R community that have expressed desires for a more inclusive space in addition to these strides. In addition, there are unique challenges that underrepresented R users experience in their respective workspaces or academic environments.</description>
     </item>
     
     <item>
       <title>Getting to know dplyr w/Daryn Ramsden</title>
-      <link>/events/dplyer_daryn_ramsden/</link>
+      <link>/past-events/dplyer_daryn_ramsden/</link>
       <pubDate>Thu, 22 Oct 2020 14:15:59 -0600</pubDate>
       
-      <guid>/events/dplyer_daryn_ramsden/</guid>
-      <description></description>
+      <guid>/past-events/dplyer_daryn_ramsden/</guid>
+      <description>Getting to know dplyr with Daryn     In this webinar, RStudio certified instructor, Daryn Ramsden will go over the basics of wrangling data with dplyr! He will also highlight some of the new functions from recently updated dplyr 1.0.</description>
     </item>
     
     <item>
       <title>ggplot2 with Shelmith Kariuki</title>
-      <link>/events/ggplotwshel/</link>
+      <link>/past-events/ggplotwshel/</link>
       <pubDate>Fri, 03 Jul 2020 14:15:59 -0600</pubDate>
       
-      <guid>/events/ggplotwshel/</guid>
-      <description></description>
+      <guid>/past-events/ggplotwshel/</guid>
+      <description>ggplot2 with Shelmith Kariuki     Do you want to learn ggplot2 or increase your confidence in ggplot2? In this webinar, Shelmith will go over the basics of ggplot2 to get you going!</description>
     </item>
     
     <item>
       <title>RStudio Instructor Certification Panel</title>
-      <link>/events/certpanel/</link>
+      <link>/past-events/certpanel/</link>
       <pubDate>Fri, 12 Jun 2020 14:15:59 -0600</pubDate>
       
-      <guid>/events/certpanel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tachyons for Style</title>
-      <link>/project/giraffes/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/giraffes/</guid>
-      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort.      Because Speed     Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
-    </item>
-    
-    <item>
-      <title>Palmer Penguins</title>
-      <link>/project/penguins/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/penguins/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
- Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
-    </item>
-    
-    <item>
-      <title>Bakeoff</title>
-      <link>/project/bakeoff/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/project/bakeoff/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+      <guid>/past-events/certpanel/</guid>
+      <description>RStudio Instructor Certification Panel     Join RStudio Instructor Certification Panelists Greg Wilson, Yanina Bellini Saibene and Shelmith Kariuki for some fun!</description>
     </item>
     
     <item>
@@ -185,36 +163,6 @@ In September, R for the Rest of Us, an organization that provides training and c
       <guid>/contact/</guid>
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
 Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
-    </item>
-    
-    <item>
-      <title>Typography Styles &amp; Element Examples</title>
-      <link>/elements/</link>
-      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
-      
-      <guid>/elements/</guid>
-      <description>Font Sizes   A A A A A A A A   6rem
-(96px) 5rem
-(80px) 3rem
-(48px) 2.25rem
-(36px) 1.5rem
-(24px) 1.25rem
-(20px) 1rem
-(16px) .875rem
-(14px)     Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/blog/content_post_tracker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/content_post_tracker/</guid>
-      <description>Editorial Calendar   Blog Posts:     Date: November 2, 2021 Title: &amp;ldquo;Congrats to Kerritt Saintal!&amp;rdquo;
-Date: November 29, 2021 Title: &amp;ldquo;LGBTQ Rainbow Minority in Code&amp;rdquo;
-Date: January 11, 2022 Title: &amp;ldquo;Website Update and Volunteer recruitment drive.
-Talk about the updated website. This blogpost will be used for recruiting new volunteers for Social Media, Newsletter, Website, and Fundraising and rotating curator (Danielle).&amp;rdquo;
-Date: January 25, 2022 Title: RStudio Certification Group</description>
     </item>
     
     <item>

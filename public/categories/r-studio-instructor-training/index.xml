@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R-Studio Instructor Training on MiR Community</title>
+    <link>/categories/r-studio-instructor-training/</link>
+    <description>Recent content in R-Studio Instructor Training on MiR Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>MiR Community 2021</copyright>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/r-studio-instructor-training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RStudio Instructor Training Groups</title>
+      <link>/blog/rstudio_instructor_training/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/rstudio_instructor_training/</guid>
+      <description>The RStudio Instructor Training Groups are active participant study sessions that allow individuals to work through the teaching and content portions of the certification exams. The RStudio Instructor Certification consist of three parts; 1) Participation in the RStudio Instructor training course on teaching methods 2) Complete a teaching 90-minute teaching exam that includes preparing and delivering a 15-minute demonstration lesson 3) Complete a 90-minute practical examination for the subject that the desire to be certified in.</description>
+    </item>
+    
+  </channel>
+</rss>

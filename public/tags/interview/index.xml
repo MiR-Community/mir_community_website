@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interview on MiR Community</title>
+    <link>/tags/interview/</link>
+    <description>Recent content in Interview on MiR Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>MiR Community 2021</copyright>
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for presenters for the MiR Fall Webinar Series!</title>
+      <link>/blog/speaker_call/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/speaker_call/</guid>
+      <description>Photo by Yan Krukov from Pexels
+Be a presenter for the MiR 2022 Fall Webinar Series!   Are you interested in sharing your knowledge and your work to the MiR Community and beyond? We are looking for three speakers to kick off our MiR Fall 2022 Webinar Series! Topics include, but are not limited to: professional development(i.e. writing a resume, interview tips), sharing how to do a specific task using R (i.</description>
+    </item>
+    
+    <item>
+      <title>MiR Community Highlight: Andy Murtha</title>
+      <link>/blog/mir-community-highlight-andy-murtha/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/mir-community-highlight-andy-murtha/</guid>
+      <description>Mir Community Highlights offer a chance to meet MiR Community members and learn more about their professional journeys, experiences with R, and personal pursuits.
+For this community highlight, please meet&amp;hellip;.
+✨ Andy Murtha     What is your current role?     Tell us about yourself!     What are the most important skills in your current position? How did you develop these skills?     What are some difficulties you&amp;rsquo;ve faced in your career?</description>
+    </item>
+    
+    <item>
+      <title>MiR Community Highlight: Yanina Noemí Bellini Saibene</title>
+      <link>/blog/mir-community-highlight-yanina-noem%C3%AD-bellini-saibene/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/mir-community-highlight-yanina-noem%C3%AD-bellini-saibene/</guid>
+      <description>Mir Community Highlights offer a chance to meet MiR Community members and learn more about their professional journeys, experiences with R, and personal pursuits.
+For this community highlight, please meet&amp;hellip;.
+✨ Yanina Noemí Bellini Saibene (she/her)     What is your current role?     I have a lot of hats but the job that pays the bills is as Research at National Institute of Agricultural Technology (INTA) coordinating the Agroecosystem Modeling Network and professor at Universidad Nacional Guillermo Brown (UNAB).</description>
+    </item>
+    
+  </channel>
+</rss>

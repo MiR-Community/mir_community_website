@@ -3,58 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/collection/day02/01-netlify/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/collection/day01/01-github/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/collection/prework/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/collection/day01/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/collection/day01/02-postcards/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/collection/day02/02-blogdown/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/collection/day02/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/collection/day01/03-distill/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/collection/day02/03-blogdown/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/speaker_call/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/call-for-speakers/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/highlights/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/interview/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/mir-community-highlight-andy-murtha/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/mir-community-highlight-yanina-noem%C3%AD-bellini-saibene/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/mir-community-highlights/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r-studio-instructor-training/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/rstudio_instructor_training/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/training/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/2022/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2022/2022-01-11-climatesurveyresults/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/editorial-calendar/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2022/2022-01-11-hello-2022/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/new-website-design/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/newwebsitevolunteerpositions/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/twitter/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/volunteers/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/volunteers/</loc>
+    <lastmod>2021-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -78,22 +138,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/mir-community-highlight/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/twitter/</loc>
     <lastmod>2021-11-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,12 +158,12 @@
   </url>
   
   <url>
-    <loc>/events/</loc>
+    <loc>/past-events/iopsychwr/</loc>
     <lastmod>2021-02-25T14:15:59-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/events/iopsychwr/</loc>
+    <loc>/past-events/</loc>
     <lastmod>2021-02-25T14:15:59-06:00</lastmod>
   </url>
   
@@ -128,73 +173,28 @@
   </url>
   
   <url>
-    <loc>/collection/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/conferences/</loc>
     <lastmod>2021-01-21T14:15:59-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/events/rstudioconf2021/</loc>
+    <loc>/past-events/rstudioconf2021/</loc>
     <lastmod>2021-01-21T14:15:59-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/events/dplyer_daryn_ramsden/</loc>
+    <loc>/past-events/dplyer_daryn_ramsden/</loc>
     <lastmod>2020-10-22T14:15:59-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/events/ggplotwshel/</loc>
+    <loc>/past-events/ggplotwshel/</loc>
     <lastmod>2020-07-03T14:15:59-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/events/certpanel/</loc>
+    <loc>/past-events/certpanel/</loc>
     <lastmod>2020-06-12T14:15:59-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hugo-site/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/package/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/giraffes/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/theme-features/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/penguins/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/bakeoff/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -205,15 +205,6 @@
   <url>
     <loc>/form/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/elements/</loc>
-    <lastmod>2019-02-18T12:27:33-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/content_post_tracker/</loc>
   </url>
   
   <url>

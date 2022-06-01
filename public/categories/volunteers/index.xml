@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volunteers on MiR Community</title>
+    <link>/categories/volunteers/</link>
+    <description>Recent content in Volunteers on MiR Community</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>MiR Community 2021</copyright>
+    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/volunteers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Website Design &#43; Call for Volunteers</title>
+      <link>/blog/newwebsitevolunteerpositions/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/newwebsitevolunteerpositions/</guid>
+      <description>Event Chair     MiR is a globally distributed organization. Events are at the core of what we do! The event chair’s primary responsibility will be to plan our calendar of events. In the next year, events (and the responsibilities thereof) may take several different forms:
+virtual events: aligning our stream of speakers and content in-person/virtual conferences: connecting conference-goers from MiR for the premier annual R conference events (UseR, R Studio Conf) in-person meetups: organizing COVID-compliant local meetups (pandemic-pending)</description>
+    </item>
+    
+  </channel>
+</rss>

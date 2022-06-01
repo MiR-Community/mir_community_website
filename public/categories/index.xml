@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>MiR Community 2021</copyright>
-    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Speakers</title>
+      <link>/categories/call-for-speakers/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/call-for-speakers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MiR Community Highlights</title>
+      <link>/categories/mir-community-highlights/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/mir-community-highlights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R-Studio Instructor Training</title>
+      <link>/categories/r-studio-instructor-training/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/r-studio-instructor-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volunteers</title>
+      <link>/categories/volunteers/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/volunteers/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Member Post</title>
       <link>/categories/member-post/</link>
@@ -50,33 +86,6 @@
       <pubDate>Thu, 21 Jan 2021 14:15:59 -0600</pubDate>
       
       <guid>/categories/conferences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>package</title>
-      <link>/categories/package/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/package/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme Features</title>
-      <link>/categories/theme-features/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/theme-features/</guid>
       <description></description>
     </item>
     

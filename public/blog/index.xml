@@ -7,7 +7,89 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>MiR Community 2021</copyright>
-    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for presenters for the MiR Fall Webinar Series!</title>
+      <link>/blog/speaker_call/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/speaker_call/</guid>
+      <description>Photo by Yan Krukov from Pexels
+Be a presenter for the MiR 2022 Fall Webinar Series!   Are you interested in sharing your knowledge and your work to the MiR Community and beyond? We are looking for three speakers to kick off our MiR Fall 2022 Webinar Series! Topics include, but are not limited to: professional development(i.e. writing a resume, interview tips), sharing how to do a specific task using R (i.</description>
+    </item>
+    
+    <item>
+      <title>MiR Community Highlight: Andy Murtha</title>
+      <link>/blog/mir-community-highlight-andy-murtha/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/mir-community-highlight-andy-murtha/</guid>
+      <description>Mir Community Highlights offer a chance to meet MiR Community members and learn more about their professional journeys, experiences with R, and personal pursuits.
+For this community highlight, please meet&amp;hellip;.
+✨ Andy Murtha     What is your current role?     Tell us about yourself!     What are the most important skills in your current position? How did you develop these skills?     What are some difficulties you&amp;rsquo;ve faced in your career?</description>
+    </item>
+    
+    <item>
+      <title>MiR Community Highlight: Yanina Noemí Bellini Saibene</title>
+      <link>/blog/mir-community-highlight-yanina-noem%C3%AD-bellini-saibene/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/mir-community-highlight-yanina-noem%C3%AD-bellini-saibene/</guid>
+      <description>Mir Community Highlights offer a chance to meet MiR Community members and learn more about their professional journeys, experiences with R, and personal pursuits.
+For this community highlight, please meet&amp;hellip;.
+✨ Yanina Noemí Bellini Saibene (she/her)     What is your current role?     I have a lot of hats but the job that pays the bills is as Research at National Institute of Agricultural Technology (INTA) coordinating the Agroecosystem Modeling Network and professor at Universidad Nacional Guillermo Brown (UNAB).</description>
+    </item>
+    
+    <item>
+      <title>RStudio Instructor Training Groups</title>
+      <link>/blog/rstudio_instructor_training/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/rstudio_instructor_training/</guid>
+      <description>The RStudio Instructor Training Groups are active participant study sessions that allow individuals to work through the teaching and content portions of the certification exams. The RStudio Instructor Certification consist of three parts; 1) Participation in the RStudio Instructor training course on teaching methods 2) Complete a teaching 90-minute teaching exam that includes preparing and delivering a 15-minute demonstration lesson 3) Complete a 90-minute practical examination for the subject that the desire to be certified in.</description>
+    </item>
+    
+    <item>
+      <title>Climate Survey results</title>
+      <link>/blog/2022/2022-01-11-climatesurveyresults/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2022/2022-01-11-climatesurveyresults/</guid>
+      <description>The Survey     The MiR community aims to support underrepresented R users of the World. In order to understand more about this community, a climate survey was conducted during the first half of 2021. Thanks to MiR volunteers&#39; translation, it was possible to answer to the questions in two languages: English or Spanish. From a total of around 190 community members, 74 of them responded the survey. In this post, we wrap up the results that came out from the analysis.</description>
+    </item>
+    
+    <item>
+      <title>Editorial Calendar</title>
+      <link>/blog/editorial-calendar/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/editorial-calendar/</guid>
+      <description>Blog Posts:     2021     Date: November 2, 2021 Title: &amp;ldquo;Congrats to Kerritt Saintal!&amp;rdquo;
+Date: November 29, 2021 Title: &amp;ldquo;LGBTQ Rainbow Minority in Code&amp;rdquo;
+ 2022     Date: January 11, 2022 Title: &amp;ldquo;Website Update and Volunteer recruitment drive.
+Talk about the updated website. This blogpost will be used for recruiting new volunteers for Social Media, Newsletter, Website, and Fundraising and rotating curator (Danielle).</description>
+    </item>
+    
+    <item>
+      <title>Hello 2022</title>
+      <link>/blog/2022/2022-01-11-hello-2022/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2022/2022-01-11-hello-2022/</guid>
+      <description>To a new MiR year   Welcome to a new year! The MiR Community has so many plans for engagement and learning opportunities. This is the year for our global community to come together and share our knowledge skills and lift each other up.
+The goals this year is to expand our community reach and engagement, from all levels of R knowledge and occupations. The MiR blog is the place we want you, yes YOU, to feel welcome and to engage with us.</description>
+    </item>
+    
+    <item>
+      <title>New Website Design &#43; Call for Volunteers</title>
+      <link>/blog/newwebsitevolunteerpositions/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/newwebsitevolunteerpositions/</guid>
+      <description>Event Chair     MiR is a globally distributed organization. Events are at the core of what we do! The event chair’s primary responsibility will be to plan our calendar of events. In the next year, events (and the responsibilities thereof) may take several different forms:
+virtual events: aligning our stream of speakers and content in-person/virtual conferences: connecting conference-goers from MiR for the premier annual R conference events (UseR, R Studio Conf) in-person meetups: organizing COVID-compliant local meetups (pandemic-pending)</description>
+    </item>
+    
     <item>
       <title>LGBTQ Rainbow Minority in Code</title>
       <link>/blog/lgbtqrainbowr/</link>
@@ -26,19 +108,6 @@ Any LGBTQ coders in the world ?</description>
       <guid>/blog/rforusnov21/</guid>
       <description>R for the Rest of Us Scholarship Winner Announced!     ![](kerrit_profile.png “image of Kerritt Saintal, winner of R for the Rest of Us Scholarship”))
 In September, R for the Rest of Us, an organization that provides training and consulting in R, invited MiR members to apply to receive a full scholarship worth $899 to participate in the R in 3 Months program. With the R in 3 Months program, participants go through Getting Started with R, Fundamentals of R, Going Deeper with R, and lessons on using Git and GitHub.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/blog/content_post_tracker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/content_post_tracker/</guid>
-      <description>Editorial Calendar   Blog Posts:     Date: November 2, 2021 Title: &amp;ldquo;Congrats to Kerritt Saintal!&amp;rdquo;
-Date: November 29, 2021 Title: &amp;ldquo;LGBTQ Rainbow Minority in Code&amp;rdquo;
-Date: January 11, 2022 Title: &amp;ldquo;Website Update and Volunteer recruitment drive.
-Talk about the updated website. This blogpost will be used for recruiting new volunteers for Social Media, Newsletter, Website, and Fundraising and rotating curator (Danielle).&amp;rdquo;
-Date: January 25, 2022 Title: RStudio Certification Group</description>
     </item>
     
   </channel>
