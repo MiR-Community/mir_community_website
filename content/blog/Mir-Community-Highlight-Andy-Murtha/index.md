@@ -20,8 +20,7 @@ title: "MiR Community Highlight: Andy Murtha"
 
 ## ✨  Andy Murtha  (He/Him/They)
 
-
-![]()
+![](highlight-photo-Andy-Murtha.jpg "awesome photo of Andy!")
 
 ### What is your current role?
 
@@ -30,7 +29,7 @@ Manager, Decision Analytics (Test & Learn)
 
 ### Tell us about yourself! 	
 
-Lived in Georgia (USA) for most of my life, went to the University of Georgia and Georgia State University for my Bachelors (economics) and Masters (accounting) degrees. started my professional career in Banking and Financial Advisory services throughout most of my 20's. Wanted a career change at 30 and went back to school for my Masters degree while working in a couple billing analyst jobs in that timeframe. After graduating from grad school, I landed a job with Deloitte in their advisory group. One of my many, many majors in my undergrad was programming, so they asked if I wanted to take a shot at analytics, and I said OK. Hence started my analytics career in my 30's with Deloitte, SunTrust Bank (now Truist) within the audit analytics group, and currently at The Home Depot working within the Decision Analytics team. 
+Lived in Georgia (USA) for most of my life, went to the University of Georgia and Georgia State University for my Bachelors (economics) and Masters (accounting) degrees. started my professional career in Banking and Financial Advisory services throughout most of my 20's. Wanted a career change at 30 and went back to school for my Masters degree while working in a couple billing analyst jobs in that timeframe. After graduating from grad school, I landed a job with Deloitte in their advisory group. One of my many, many majors in my undergrad was programming, so they asked if I wanted to take a shot at analytics, and I said OK. Hence started my analytics career in my 30's with Deloitte, SunTrust Bank (now Truist) within the audit analytics group, and currently at The Home Depot working within the Decision Analytics team.
 
 At work, I am currently working on projects that involve various business partners wanting to test out ideas in a small subset of stores to see whether their idea works when compared to stores not making changes. We measure their performance relative to the baseline stores to provide insight on whether their idea is better than the status quo. For my personal projects, I am working on the following: RStudio Certified Instructor designation, some of the Shiny courses that business-science.io offers (shoutout to Matt Dancho and his team for their course content), creating R content for training purposes, and starting to work on a shiny project within Google Cloud Platform (cloud provider I am famiilar with). Future projects hopefully will include some use of the distill or blogdown packages to make a personal website to promote and share things i am working on, and topics that I care about in analytics, data science, data visualization, and R.
 
@@ -41,7 +40,7 @@ I love to talk about data visualization, storytelling, accessibility in data viz
 
 Data Analysis: learned on the job, other than the business-science.io and DataCamp certifications I have, I have no formalized education in data analysis. While there is a growing trend to take analytics/data science graduates, I feel that one can still lean on self learning with a portfolio of projects to show your capability, while also sharing what you are passionate about.
 
-Data Science: currently learning data science pipeline topics through training, also good to have general knowledge when partnering with those who already specialize in data 
+Data Science: currently learning data science pipeline topics through training, also good to have general knowledge when partnering with those who already specialize in data
 science.
 
 Communication: One of the most important skills!!! Making sure that you communicate, and also allowing time for your co-workers, business partners, and others to communicate with you! I was once told you have two ears and one mouth, listen twice as much as you speak, and that holds true in business and the community.
@@ -96,10 +95,8 @@ Continue to provide visibility to what others are doing in the MiR community and
 
 ### Where can we find you on social media?
 
-- Twitter: @murtha_andy 
+- Twitter: @murtha_andy
 - GitHub: @amurtha80
 
 
 Thanks for being apart of MiR and sharing your story with us! We really appreciate it.
-
-
