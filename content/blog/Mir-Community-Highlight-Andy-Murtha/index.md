@@ -2,7 +2,7 @@
 author: MiR Community Team
 categories:
 - "MiR Community Highlights"
-date: "2022-03-01"
+date: "2022-06-02"
 draft: false
 excerpt: Mir Community Highlights offer a chance to meet MiR Community members and learn more about their professional journeys, experiences with R, and personal pursuits.
 layout: [single]
